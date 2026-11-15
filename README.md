@@ -1,6 +1,6 @@
 # Demand Planning & Forecasting | Planeación de la Demanda
 
-<img width="1332" height="730" alt="dashboard_sc" src="https://github.com/user-attachments/assets/c9861b0c-a321-4768-b28e-6591ea4841e2" />
+<img width="1303" height="730" alt="dashboard_sc" src="https://github.com/user-attachments/assets/822b2943-18ca-4e73-b706-f4c03258212a" />
 
 ## Descripción del proyecto
 
