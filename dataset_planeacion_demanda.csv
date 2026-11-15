@@ -1,0 +1,301 @@
+﻿fecha,sku,producto,categoria,unidades_vendidas,precio_unitario,promocion,inventario_final
+2021-01-01,SKU001,Arroz 1 kg,Abarrotes,1083,28.22,0,520
+2021-01-01,SKU002,Aceite 1 L,Abarrotes,867,41.86,0,228
+2021-01-01,SKU003,Detergente 1 kg,Limpieza,734,55.04,0,0
+2021-01-01,SKU004,Papel higiénico 4 pzas,Higiene,531,48.28,0,129
+2021-01-01,SKU005,Leche 1 L,Lácteos,1197,24.85,0,411
+2021-02-01,SKU001,Arroz 1 kg,Abarrotes,1536,27.94,1,651
+2021-02-01,SKU002,Aceite 1 L,Abarrotes,884,41.61,0,0
+2021-02-01,SKU003,Detergente 1 kg,Limpieza,816,55.44,1,106
+2021-02-01,SKU004,Papel higiénico 4 pzas,Higiene,525,48.61,0,0
+2021-02-01,SKU005,Leche 1 L,Lácteos,1331,25.27,0,227
+2021-03-01,SKU001,Arroz 1 kg,Abarrotes,1151,27.69,0,537
+2021-03-01,SKU002,Aceite 1 L,Abarrotes,947,41.9,0,387
+2021-03-01,SKU003,Detergente 1 kg,Limpieza,827,54.15,1,186
+2021-03-01,SKU004,Papel higiénico 4 pzas,Higiene,459,48.65,0,0
+2021-03-01,SKU005,Leche 1 L,Lácteos,1537,24.93,0,274
+2021-04-01,SKU001,Arroz 1 kg,Abarrotes,1175,27.84,0,335
+2021-04-01,SKU002,Aceite 1 L,Abarrotes,942,41.97,0,483
+2021-04-01,SKU003,Detergente 1 kg,Limpieza,708,54.85,0,12
+2021-04-01,SKU004,Papel higiénico 4 pzas,Higiene,454,47.41,0,203
+2021-04-01,SKU005,Leche 1 L,Lácteos,1354,24.61,0,280
+2021-05-01,SKU001,Arroz 1 kg,Abarrotes,1109,27.49,0,593
+2021-05-01,SKU002,Aceite 1 L,Abarrotes,1087,42.59,1,372
+2021-05-01,SKU003,Detergente 1 kg,Limpieza,657,54.96,0,179
+2021-05-01,SKU004,Papel higiénico 4 pzas,Higiene,443,47.17,0,98
+2021-05-01,SKU005,Leche 1 L,Lácteos,1709,24.99,0,0
+2021-06-01,SKU001,Arroz 1 kg,Abarrotes,1161,27.85,0,0
+2021-06-01,SKU002,Aceite 1 L,Abarrotes,925,41.92,1,166
+2021-06-01,SKU003,Detergente 1 kg,Limpieza,838,54.91,1,0
+2021-06-01,SKU004,Papel higiénico 4 pzas,Higiene,415,47.25,0,81
+2021-06-01,SKU005,Leche 1 L,Lácteos,1630,25.14,0,562
+2021-07-01,SKU001,Arroz 1 kg,Abarrotes,1241,28.19,0,346
+2021-07-01,SKU002,Aceite 1 L,Abarrotes,820,42.7,0,537
+2021-07-01,SKU003,Detergente 1 kg,Limpieza,539,53.92,0,143
+2021-07-01,SKU004,Papel higiénico 4 pzas,Higiene,500,48.36,0,264
+2021-07-01,SKU005,Leche 1 L,Lácteos,1620,24.56,0,596
+2021-08-01,SKU001,Arroz 1 kg,Abarrotes,1273,28.34,0,265
+2021-08-01,SKU002,Aceite 1 L,Abarrotes,807,42.57,0,303
+2021-08-01,SKU003,Detergente 1 kg,Limpieza,554,55.15,0,28
+2021-08-01,SKU004,Papel higiénico 4 pzas,Higiene,687,48.44,1,120
+2021-08-01,SKU005,Leche 1 L,Lácteos,1506,25.36,0,576
+2021-09-01,SKU001,Arroz 1 kg,Abarrotes,1367,27.45,0,609
+2021-09-01,SKU002,Aceite 1 L,Abarrotes,959,42.67,1,102
+2021-09-01,SKU003,Detergente 1 kg,Limpieza,568,54.26,0,126
+2021-09-01,SKU004,Papel higiénico 4 pzas,Higiene,627,48.33,1,336
+2021-09-01,SKU005,Leche 1 L,Lácteos,1459,24.87,0,453
+2021-10-01,SKU001,Arroz 1 kg,Abarrotes,1366,28.08,0,431
+2021-10-01,SKU002,Aceite 1 L,Abarrotes,802,42.69,0,0
+2021-10-01,SKU003,Detergente 1 kg,Limpieza,664,55.23,0,230
+2021-10-01,SKU004,Papel higiénico 4 pzas,Higiene,635,47.66,0,226
+2021-10-01,SKU005,Leche 1 L,Lácteos,1172,24.72,0,103
+2021-11-01,SKU001,Arroz 1 kg,Abarrotes,1639,28.3,0,314
+2021-11-01,SKU002,Aceite 1 L,Abarrotes,839,42.51,0,54
+2021-11-01,SKU003,Detergente 1 kg,Limpieza,772,55.22,0,0
+2021-11-01,SKU004,Papel higiénico 4 pzas,Higiene,874,48.73,1,81
+2021-11-01,SKU005,Leche 1 L,Lácteos,1470,25.39,0,554
+2021-12-01,SKU001,Arroz 1 kg,Abarrotes,2061,27.93,1,708
+2021-12-01,SKU002,Aceite 1 L,Abarrotes,1074,42.46,0,0
+2021-12-01,SKU003,Detergente 1 kg,Limpieza,927,54.66,1,400
+2021-12-01,SKU004,Papel higiénico 4 pzas,Higiene,749,47.04,1,0
+2021-12-01,SKU005,Leche 1 L,Lácteos,1544,24.79,0,700
+2022-01-01,SKU001,Arroz 1 kg,Abarrotes,1638,28.45,1,586
+2022-01-01,SKU002,Aceite 1 L,Abarrotes,1230,43.06,1,386
+2022-01-01,SKU003,Detergente 1 kg,Limpieza,712,55.96,0,0
+2022-01-01,SKU004,Papel higiénico 4 pzas,Higiene,529,48.55,0,228
+2022-01-01,SKU005,Leche 1 L,Lácteos,1475,25.48,1,32
+2022-02-01,SKU001,Arroz 1 kg,Abarrotes,1297,28.59,0,0
+2022-02-01,SKU002,Aceite 1 L,Abarrotes,935,42.52,0,516
+2022-02-01,SKU003,Detergente 1 kg,Limpieza,737,55.64,0,0
+2022-02-01,SKU004,Papel higiénico 4 pzas,Higiene,501,48.4,0,83
+2022-02-01,SKU005,Leche 1 L,Lácteos,1601,25.68,1,499
+2022-03-01,SKU001,Arroz 1 kg,Abarrotes,1150,28.66,0,97
+2022-03-01,SKU002,Aceite 1 L,Abarrotes,1227,43.25,1,289
+2022-03-01,SKU003,Detergente 1 kg,Limpieza,751,56.57,0,348
+2022-03-01,SKU004,Papel higiénico 4 pzas,Higiene,538,49.69,0,0
+2022-03-01,SKU005,Leche 1 L,Lácteos,1391,25.95,0,28
+2022-04-01,SKU001,Arroz 1 kg,Abarrotes,1113,28.56,0,0
+2022-04-01,SKU002,Aceite 1 L,Abarrotes,1083,42.51,1,479
+2022-04-01,SKU003,Detergente 1 kg,Limpieza,707,55.86,0,112
+2022-04-01,SKU004,Papel higiénico 4 pzas,Higiene,481,48.45,0,68
+2022-04-01,SKU005,Leche 1 L,Lácteos,2027,25.59,1,629
+2022-05-01,SKU001,Arroz 1 kg,Abarrotes,1433,29.23,1,356
+2022-05-01,SKU002,Aceite 1 L,Abarrotes,1007,42.44,0,343
+2022-05-01,SKU003,Detergente 1 kg,Limpieza,772,55.29,0,279
+2022-05-01,SKU004,Papel higiénico 4 pzas,Higiene,475,50.17,0,74
+2022-05-01,SKU005,Leche 1 L,Lácteos,1728,25.25,0,92
+2022-06-01,SKU001,Arroz 1 kg,Abarrotes,1103,28.95,0,136
+2022-06-01,SKU002,Aceite 1 L,Abarrotes,894,43.81,0,141
+2022-06-01,SKU003,Detergente 1 kg,Limpieza,701,56.5,0,269
+2022-06-01,SKU004,Papel higiénico 4 pzas,Higiene,401,50.14,0,44
+2022-06-01,SKU005,Leche 1 L,Lácteos,1831,26.07,0,1134
+2022-07-01,SKU001,Arroz 1 kg,Abarrotes,1289,28.36,0,200
+2022-07-01,SKU002,Aceite 1 L,Abarrotes,1011,42.42,1,222
+2022-07-01,SKU003,Detergente 1 kg,Limpieza,630,57.47,0,22
+2022-07-01,SKU004,Papel higiénico 4 pzas,Higiene,479,49.66,0,237
+2022-07-01,SKU005,Leche 1 L,Lácteos,1621,26.02,0,89
+2022-08-01,SKU001,Arroz 1 kg,Abarrotes,1360,28.95,0,445
+2022-08-01,SKU002,Aceite 1 L,Abarrotes,738,42.9,0,157
+2022-08-01,SKU003,Detergente 1 kg,Limpieza,586,56.17,0,131
+2022-08-01,SKU004,Papel higiénico 4 pzas,Higiene,616,48.31,1,32
+2022-08-01,SKU005,Leche 1 L,Lácteos,2000,25.6,1,567
+2022-09-01,SKU001,Arroz 1 kg,Abarrotes,1759,28.6,1,0
+2022-09-01,SKU002,Aceite 1 L,Abarrotes,1070,42.91,1,311
+2022-09-01,SKU003,Detergente 1 kg,Limpieza,706,57.42,1,412
+2022-09-01,SKU004,Papel higiénico 4 pzas,Higiene,549,49.84,0,51
+2022-09-01,SKU005,Leche 1 L,Lácteos,1384,25.22,0,839
+2022-10-01,SKU001,Arroz 1 kg,Abarrotes,1721,28.8,1,377
+2022-10-01,SKU002,Aceite 1 L,Abarrotes,799,43.3,0,330
+2022-10-01,SKU003,Detergente 1 kg,Limpieza,527,56.31,0,83
+2022-10-01,SKU004,Papel higiénico 4 pzas,Higiene,565,49.33,0,0
+2022-10-01,SKU005,Leche 1 L,Lácteos,1488,26.02,0,182
+2022-11-01,SKU001,Arroz 1 kg,Abarrotes,1541,28.15,0,382
+2022-11-01,SKU002,Aceite 1 L,Abarrotes,1128,43.27,0,565
+2022-11-01,SKU003,Detergente 1 kg,Limpieza,749,56.9,0,95
+2022-11-01,SKU004,Papel higiénico 4 pzas,Higiene,721,49.49,0,143
+2022-11-01,SKU005,Leche 1 L,Lácteos,1473,25.47,0,0
+2022-12-01,SKU001,Arroz 1 kg,Abarrotes,1738,28.69,0,221
+2022-12-01,SKU002,Aceite 1 L,Abarrotes,1005,43.06,0,232
+2022-12-01,SKU003,Detergente 1 kg,Limpieza,759,57.05,0,154
+2022-12-01,SKU004,Papel higiénico 4 pzas,Higiene,766,48.33,0,80
+2022-12-01,SKU005,Leche 1 L,Lácteos,1855,26.09,1,418
+2023-01-01,SKU001,Arroz 1 kg,Abarrotes,1349,29.42,0,754
+2023-01-01,SKU002,Aceite 1 L,Abarrotes,982,43.42,0,0
+2023-01-01,SKU003,Detergente 1 kg,Limpieza,807,57.47,0,79
+2023-01-01,SKU004,Papel higiénico 4 pzas,Higiene,508,49.59,0,0
+2023-01-01,SKU005,Leche 1 L,Lácteos,1696,26.58,1,120
+2023-02-01,SKU001,Arroz 1 kg,Abarrotes,1435,29.46,1,214
+2023-02-01,SKU002,Aceite 1 L,Abarrotes,1042,43.52,0,49
+2023-02-01,SKU003,Detergente 1 kg,Limpieza,716,57.94,0,339
+2023-02-01,SKU004,Papel higiénico 4 pzas,Higiene,502,50.04,0,28
+2023-02-01,SKU005,Leche 1 L,Lácteos,1424,25.97,0,84
+2023-03-01,SKU001,Arroz 1 kg,Abarrotes,1348,29.72,0,0
+2023-03-01,SKU002,Aceite 1 L,Abarrotes,1054,43.87,0,0
+2023-03-01,SKU003,Detergente 1 kg,Limpieza,786,57.47,0,68
+2023-03-01,SKU004,Papel higiénico 4 pzas,Higiene,494,49.81,0,0
+2023-03-01,SKU005,Leche 1 L,Lácteos,1568,25.99,0,421
+2023-04-01,SKU001,Arroz 1 kg,Abarrotes,1146,29.25,0,313
+2023-04-01,SKU002,Aceite 1 L,Abarrotes,1008,44.97,0,411
+2023-04-01,SKU003,Detergente 1 kg,Limpieza,714,58.8,0,364
+2023-04-01,SKU004,Papel higiénico 4 pzas,Higiene,542,50.64,1,264
+2023-04-01,SKU005,Leche 1 L,Lácteos,1808,25.73,0,0
+2023-05-01,SKU001,Arroz 1 kg,Abarrotes,1208,29.42,0,0
+2023-05-01,SKU002,Aceite 1 L,Abarrotes,934,44.35,0,113
+2023-05-01,SKU003,Detergente 1 kg,Limpieza,671,57.06,0,80
+2023-05-01,SKU004,Papel higiénico 4 pzas,Higiene,455,51.4,0,125
+2023-05-01,SKU005,Leche 1 L,Lácteos,1662,26.58,0,545
+2023-06-01,SKU001,Arroz 1 kg,Abarrotes,1266,29.98,0,755
+2023-06-01,SKU002,Aceite 1 L,Abarrotes,1206,44.69,1,723
+2023-06-01,SKU003,Detergente 1 kg,Limpieza,901,57.71,1,76
+2023-06-01,SKU004,Papel higiénico 4 pzas,Higiene,485,51.02,0,106
+2023-06-01,SKU005,Leche 1 L,Lácteos,1705,25.93,0,838
+2023-07-01,SKU001,Arroz 1 kg,Abarrotes,1346,29.18,0,9
+2023-07-01,SKU002,Aceite 1 L,Abarrotes,988,44.01,1,350
+2023-07-01,SKU003,Detergente 1 kg,Limpieza,657,57.28,0,417
+2023-07-01,SKU004,Papel higiénico 4 pzas,Higiene,548,50.16,0,0
+2023-07-01,SKU005,Leche 1 L,Lácteos,1780,26.76,0,694
+2023-08-01,SKU001,Arroz 1 kg,Abarrotes,1297,29.12,0,148
+2023-08-01,SKU002,Aceite 1 L,Abarrotes,746,43.48,0,0
+2023-08-01,SKU003,Detergente 1 kg,Limpieza,581,58.8,0,72
+2023-08-01,SKU004,Papel higiénico 4 pzas,Higiene,623,49.6,0,67
+2023-08-01,SKU005,Leche 1 L,Lácteos,1781,26.52,0,0
+2023-09-01,SKU001,Arroz 1 kg,Abarrotes,2024,29.02,1,0
+2023-09-01,SKU002,Aceite 1 L,Abarrotes,850,44.08,0,0
+2023-09-01,SKU003,Detergente 1 kg,Limpieza,706,58.55,1,0
+2023-09-01,SKU004,Papel higiénico 4 pzas,Higiene,587,50.67,0,58
+2023-09-01,SKU005,Leche 1 L,Lácteos,1580,26.03,0,512
+2023-10-01,SKU001,Arroz 1 kg,Abarrotes,1565,29.95,0,0
+2023-10-01,SKU002,Aceite 1 L,Abarrotes,794,44.34,0,180
+2023-10-01,SKU003,Detergente 1 kg,Limpieza,724,58.56,1,41
+2023-10-01,SKU004,Papel higiénico 4 pzas,Higiene,589,50.54,0,114
+2023-10-01,SKU005,Leche 1 L,Lácteos,1484,25.99,0,102
+2023-11-01,SKU001,Arroz 1 kg,Abarrotes,1903,29.61,1,703
+2023-11-01,SKU002,Aceite 1 L,Abarrotes,1018,44.17,0,313
+2023-11-01,SKU003,Detergente 1 kg,Limpieza,741,58.35,0,264
+2023-11-01,SKU004,Papel higiénico 4 pzas,Higiene,808,50.16,0,258
+2023-11-01,SKU005,Leche 1 L,Lácteos,1552,26.14,0,632
+2023-12-01,SKU001,Arroz 1 kg,Abarrotes,1905,29.76,0,0
+2023-12-01,SKU002,Aceite 1 L,Abarrotes,1014,44.11,0,383
+2023-12-01,SKU003,Detergente 1 kg,Limpieza,801,56.83,0,1
+2023-12-01,SKU004,Papel higiénico 4 pzas,Higiene,701,50.53,0,399
+2023-12-01,SKU005,Leche 1 L,Lácteos,1768,26.69,0,0
+2024-01-01,SKU001,Arroz 1 kg,Abarrotes,1459,29.98,0,702
+2024-01-01,SKU002,Aceite 1 L,Abarrotes,897,45.21,0,467
+2024-01-01,SKU003,Detergente 1 kg,Limpieza,789,58.52,0,309
+2024-01-01,SKU004,Papel higiénico 4 pzas,Higiene,646,51.95,0,198
+2024-01-01,SKU005,Leche 1 L,Lácteos,1389,26.67,0,138
+2024-02-01,SKU001,Arroz 1 kg,Abarrotes,1390,30.61,0,232
+2024-02-01,SKU002,Aceite 1 L,Abarrotes,1279,44.86,1,591
+2024-02-01,SKU003,Detergente 1 kg,Limpieza,672,58.53,0,419
+2024-02-01,SKU004,Papel higiénico 4 pzas,Higiene,527,50.58,0,50
+2024-02-01,SKU005,Leche 1 L,Lácteos,1672,27.12,0,546
+2024-03-01,SKU001,Arroz 1 kg,Abarrotes,1918,30.0,1,1133
+2024-03-01,SKU002,Aceite 1 L,Abarrotes,1006,45.33,0,395
+2024-03-01,SKU003,Detergente 1 kg,Limpieza,896,59.17,0,200
+2024-03-01,SKU004,Papel higiénico 4 pzas,Higiene,448,52.33,0,12
+2024-03-01,SKU005,Leche 1 L,Lácteos,1619,27.14,0,110
+2024-04-01,SKU001,Arroz 1 kg,Abarrotes,1317,30.44,0,693
+2024-04-01,SKU002,Aceite 1 L,Abarrotes,1084,45.37,0,589
+2024-04-01,SKU003,Detergente 1 kg,Limpieza,990,58.24,1,374
+2024-04-01,SKU004,Papel higiénico 4 pzas,Higiene,576,52.38,0,0
+2024-04-01,SKU005,Leche 1 L,Lácteos,1749,26.96,0,672
+2024-05-01,SKU001,Arroz 1 kg,Abarrotes,1189,30.14,0,304
+2024-05-01,SKU002,Aceite 1 L,Abarrotes,885,45.66,0,303
+2024-05-01,SKU003,Detergente 1 kg,Limpieza,621,58.43,0,242
+2024-05-01,SKU004,Papel higiénico 4 pzas,Higiene,515,51.59,0,322
+2024-05-01,SKU005,Leche 1 L,Lácteos,1805,27.07,0,1015
+2024-06-01,SKU001,Arroz 1 kg,Abarrotes,1317,30.01,0,143
+2024-06-01,SKU002,Aceite 1 L,Abarrotes,1006,45.43,0,180
+2024-06-01,SKU003,Detergente 1 kg,Limpieza,782,59.38,0,105
+2024-06-01,SKU004,Papel higiénico 4 pzas,Higiene,527,51.79,0,49
+2024-06-01,SKU005,Leche 1 L,Lácteos,2159,27.32,0,645
+2024-07-01,SKU001,Arroz 1 kg,Abarrotes,1586,30.4,0,0
+2024-07-01,SKU002,Aceite 1 L,Abarrotes,753,44.87,0,291
+2024-07-01,SKU003,Detergente 1 kg,Limpieza,506,59.88,0,82
+2024-07-01,SKU004,Papel higiénico 4 pzas,Higiene,461,51.73,0,61
+2024-07-01,SKU005,Leche 1 L,Lácteos,1840,26.44,0,360
+2024-08-01,SKU001,Arroz 1 kg,Abarrotes,1708,30.49,1,614
+2024-08-01,SKU002,Aceite 1 L,Abarrotes,713,45.09,0,182
+2024-08-01,SKU003,Detergente 1 kg,Limpieza,708,58.06,0,273
+2024-08-01,SKU004,Papel higiénico 4 pzas,Higiene,629,50.81,0,16
+2024-08-01,SKU005,Leche 1 L,Lácteos,1750,27.39,0,577
+2024-09-01,SKU001,Arroz 1 kg,Abarrotes,1129,29.68,0,88
+2024-09-01,SKU002,Aceite 1 L,Abarrotes,832,45.7,0,0
+2024-09-01,SKU003,Detergente 1 kg,Limpieza,637,58.44,0,84
+2024-09-01,SKU004,Papel higiénico 4 pzas,Higiene,646,50.62,0,141
+2024-09-01,SKU005,Leche 1 L,Lácteos,1369,27.05,0,386
+2024-10-01,SKU001,Arroz 1 kg,Abarrotes,2168,30.21,1,253
+2024-10-01,SKU002,Aceite 1 L,Abarrotes,1016,44.44,1,524
+2024-10-01,SKU003,Detergente 1 kg,Limpieza,606,58.61,0,0
+2024-10-01,SKU004,Papel higiénico 4 pzas,Higiene,579,51.35,0,120
+2024-10-01,SKU005,Leche 1 L,Lácteos,1480,26.87,0,414
+2024-11-01,SKU001,Arroz 1 kg,Abarrotes,1973,30.52,0,0
+2024-11-01,SKU002,Aceite 1 L,Abarrotes,1008,45.69,0,426
+2024-11-01,SKU003,Detergente 1 kg,Limpieza,802,58.87,0,277
+2024-11-01,SKU004,Papel higiénico 4 pzas,Higiene,789,50.86,0,109
+2024-11-01,SKU005,Leche 1 L,Lácteos,1657,27.35,0,343
+2024-12-01,SKU001,Arroz 1 kg,Abarrotes,1797,30.0,0,178
+2024-12-01,SKU002,Aceite 1 L,Abarrotes,1221,45.18,1,386
+2024-12-01,SKU003,Detergente 1 kg,Limpieza,844,59.36,0,14
+2024-12-01,SKU004,Papel higiénico 4 pzas,Higiene,828,52.24,0,368
+2024-12-01,SKU005,Leche 1 L,Lácteos,1570,27.29,0,476
+2025-01-01,SKU001,Arroz 1 kg,Abarrotes,1636,30.25,0,935
+2025-01-01,SKU002,Aceite 1 L,Abarrotes,810,45.72,0,296
+2025-01-01,SKU003,Detergente 1 kg,Limpieza,792,61.34,0,433
+2025-01-01,SKU004,Papel higiénico 4 pzas,Higiene,626,52.65,0,261
+2025-01-01,SKU005,Leche 1 L,Lácteos,1427,26.98,0,558
+2025-02-01,SKU001,Arroz 1 kg,Abarrotes,1525,31.17,0,402
+2025-02-01,SKU002,Aceite 1 L,Abarrotes,995,46.01,0,0
+2025-02-01,SKU003,Detergente 1 kg,Limpieza,768,60.58,0,342
+2025-02-01,SKU004,Papel higiénico 4 pzas,Higiene,544,51.83,0,166
+2025-02-01,SKU005,Leche 1 L,Lácteos,1591,27.47,0,288
+2025-03-01,SKU001,Arroz 1 kg,Abarrotes,1563,30.82,0,319
+2025-03-01,SKU002,Aceite 1 L,Abarrotes,1081,46.6,0,75
+2025-03-01,SKU003,Detergente 1 kg,Limpieza,833,60.27,0,310
+2025-03-01,SKU004,Papel higiénico 4 pzas,Higiene,556,53.51,0,16
+2025-03-01,SKU005,Leche 1 L,Lácteos,1835,27.33,0,1190
+2025-04-01,SKU001,Arroz 1 kg,Abarrotes,1198,30.36,0,21
+2025-04-01,SKU002,Aceite 1 L,Abarrotes,1089,46.34,1,514
+2025-04-01,SKU003,Detergente 1 kg,Limpieza,767,60.86,0,43
+2025-04-01,SKU004,Papel higiénico 4 pzas,Higiene,517,52.94,0,65
+2025-04-01,SKU005,Leche 1 L,Lácteos,1939,27.32,0,0
+2025-05-01,SKU001,Arroz 1 kg,Abarrotes,1355,30.59,0,351
+2025-05-01,SKU002,Aceite 1 L,Abarrotes,1098,45.95,1,0
+2025-05-01,SKU003,Detergente 1 kg,Limpieza,929,60.91,1,0
+2025-05-01,SKU004,Papel higiénico 4 pzas,Higiene,541,52.14,0,59
+2025-05-01,SKU005,Leche 1 L,Lácteos,2537,28.04,1,1139
+2025-06-01,SKU001,Arroz 1 kg,Abarrotes,1521,30.78,0,741
+2025-06-01,SKU002,Aceite 1 L,Abarrotes,901,45.91,0,351
+2025-06-01,SKU003,Detergente 1 kg,Limpieza,655,61.17,0,127
+2025-06-01,SKU004,Papel higiénico 4 pzas,Higiene,579,53.5,0,207
+2025-06-01,SKU005,Leche 1 L,Lácteos,1930,27.64,0,603
+2025-07-01,SKU001,Arroz 1 kg,Abarrotes,1497,30.84,0,391
+2025-07-01,SKU002,Aceite 1 L,Abarrotes,764,46.93,0,366
+2025-07-01,SKU003,Detergente 1 kg,Limpieza,728,59.63,0,266
+2025-07-01,SKU004,Papel higiénico 4 pzas,Higiene,588,52.9,0,340
+2025-07-01,SKU005,Leche 1 L,Lácteos,1721,27.33,0,549
+2025-08-01,SKU001,Arroz 1 kg,Abarrotes,1602,31.24,0,96
+2025-08-01,SKU002,Aceite 1 L,Abarrotes,845,46.37,0,6
+2025-08-01,SKU003,Detergente 1 kg,Limpieza,647,60.99,0,78
+2025-08-01,SKU004,Papel higiénico 4 pzas,Higiene,613,52.71,0,9
+2025-08-01,SKU005,Leche 1 L,Lácteos,2300,27.22,1,1060
+2025-09-01,SKU001,Arroz 1 kg,Abarrotes,2054,31.34,1,899
+2025-09-01,SKU002,Aceite 1 L,Abarrotes,1024,46.89,1,510
+2025-09-01,SKU003,Detergente 1 kg,Limpieza,658,61.65,0,0
+2025-09-01,SKU004,Papel higiénico 4 pzas,Higiene,748,53.39,1,96
+2025-09-01,SKU005,Leche 1 L,Lácteos,2025,27.79,1,974
+2025-10-01,SKU001,Arroz 1 kg,Abarrotes,1634,31.16,0,224
+2025-10-01,SKU002,Aceite 1 L,Abarrotes,908,46.16,0,502
+2025-10-01,SKU003,Detergente 1 kg,Limpieza,631,60.77,0,236
+2025-10-01,SKU004,Papel higiénico 4 pzas,Higiene,934,52.18,1,361
+2025-10-01,SKU005,Leche 1 L,Lácteos,1752,27.58,0,589
+2025-11-01,SKU001,Arroz 1 kg,Abarrotes,2212,30.4,0,469
+2025-11-01,SKU002,Aceite 1 L,Abarrotes,1066,45.62,0,507
+2025-11-01,SKU003,Detergente 1 kg,Limpieza,796,60.48,0,171
+2025-11-01,SKU004,Papel higiénico 4 pzas,Higiene,764,52.24,0,0
+2025-11-01,SKU005,Leche 1 L,Lácteos,1659,27.1,0,307
+2025-12-01,SKU001,Arroz 1 kg,Abarrotes,2239,31.17,0,784
+2025-12-01,SKU002,Aceite 1 L,Abarrotes,1149,46.08,0,0
+2025-12-01,SKU003,Detergente 1 kg,Limpieza,867,61.33,0,412
+2025-12-01,SKU004,Papel higiénico 4 pzas,Higiene,798,53.67,0,120
+2025-12-01,SKU005,Leche 1 L,Lácteos,1653,27.4,0,453
